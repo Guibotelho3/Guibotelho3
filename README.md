@@ -1,6 +1,6 @@
 ### Greetings! My name is Guilherme   👋
 
-#### I am currently an undergrad student of **Computer Engeneering** - **UFOP** (João Monlevade - MG)
+#### I am currently an undergrad student of __Computer Engeneering__ - **UFOP** (João Monlevade - MG)
 #### Searching for the first oportunity as a Intern to apply my teorical knoledge
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-borges-botelho-lima-437847204/)
