@@ -1,10 +1,10 @@
 ### Greetings! My name is Guilherme   👋
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Guibotelho3&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibotelho3)](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibotelho3&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibotelho3&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibotelho3&layout=compact)
+
 
 #### I am currently an undergrad student of __Computer Engeneering__ - **UFOP** (João Monlevade - MG)
 #### Searching for the first oportunity as a intern to apply my teorical knoledge
