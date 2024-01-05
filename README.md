@@ -1,6 +1,8 @@
 ### Greetings! My name is Guilherme   👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Guibotelho3&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibotelho3&size_weight=0.5&count_weight=0.5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guibotelho3&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guibotelho3&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guibotelho3&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 
 
